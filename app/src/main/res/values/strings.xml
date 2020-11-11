@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="elad">elad</string>
+    <string name="hiiiiiiiiii">HIIIIIIIIII</string>
+    <string name="textview">TextView</string>
+    <string name="textViewNewClient">קליטת לקוח חדש</string>
+</resources>
